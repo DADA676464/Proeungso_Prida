@@ -1,0 +1,64 @@
+.center
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    flex-direction: row;
+}
+.center-col
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.gap
+{
+    gap: 100px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+.center a
+{
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+    color: black;
+}
+.center a:hover
+{
+    color: black;
+}
+.profile
+{
+    width: 15%;
+    border-radius: 50%;
+}
+.heading
+{
+    color:#34495e;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
+.paragraph
+{
+    width: 70%;
+    color: #34495e;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.image
+{
+    width: 20%;
+}
+.gallary
+{
+    gap: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.underline
+{
+    text-decoration: underline;
+}
